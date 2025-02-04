@@ -1,5 +1,10 @@
 # Predicting Optimal Sales Method for Revenue Maximization
 
+📌 **Disclaimer:**  
+This project was completed as part of a DataCamp certification.  
+The dataset and problem statement are inspired by the certification task,  
+but all code, analysis, and insights presented here are my own.  
+
 ## 📌 Project Overview
 This project is part of the **Data Analyst Professional Practical Exam Submission**, where the goal is to **identify the best-performing sales method that maximizes revenue while optimizing resource allocation**.
 
@@ -114,8 +119,8 @@ The dataset consists of **14,998 transactions** after cleaning, with the followi
 ## 🛠️ How to Run the Code
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Diegortiz43/DataCamp_Data_Analyst_Certification.git
-   cd DataCamp_Data_Analyst_Certification
+   git clone https://github.com/yourusername/Sales_Method_Optimization.git
+    cd Sales_Method_Optimization
    ```
 2. Install dependencies:
    ```bash
